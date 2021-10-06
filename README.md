@@ -17,3 +17,8 @@ modifiche effettuate #login
     - aggiunte le classi btn w-100 al bottone
    
    
+modifiche effettuate #plans
+    - cambiato contenitore da fluid a container
+    - Centrato il testo nell'header con l'aggiunta della classe text-center
+    - Aggiunta classe table all'interno della tabella responsive
+    - Aggiunta classe row all'interno del footer
