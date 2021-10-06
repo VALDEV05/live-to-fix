@@ -11,13 +11,9 @@ modifiche effettuate #blog
     - Cambiata la classe alla navbar per far si che si allineano gli elementi in modo corretto.
     - Cambiato il contenitore per uguagliare sempre più lo screen
 
-modifiche effettuate #blog
+modifiche effettuate #login
     - aggiunti margin auto al logo in modo da centrarlo
-    - Cambiata la classe container dato che era scritta in modo errato.
-    - Cambiata larghezza colonna da col-lg-9 a col-lg-8 dato che l'altra colonna era un col-lg-4 9+4=13 non 12
-    -aggiunta classe form-control dove mancava all'interno del form 
-        username 
-        email
-        address
-    - footer chiuso ul tag
-    - aggiunta classe text-center al footer
+    - Cambiata la classe form signin che non serviva nulla in form-signin
+    - aggiunte le classi btn w-100 al bottone
+   
+   
